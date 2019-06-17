@@ -7,4 +7,7 @@ public class Test {
 	public void fun(){
 		System.out.println("这是方法");
 	}
+	public void fun1(){
+		System.out.println("fun1");
+	}
 }
