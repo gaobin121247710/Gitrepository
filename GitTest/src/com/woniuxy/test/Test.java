@@ -10,4 +10,7 @@ public class Test {
 	public void fun1(){
 		System.out.println("方法1");
 	}
+	public void fun2(){
+		System.out.println("方法2");
+	}
 }
