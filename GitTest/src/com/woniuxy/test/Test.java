@@ -13,4 +13,7 @@ public class Test {
 	public void fun2(){
 		System.out.println("方法2");
 	}
+	public void fun3(){
+		System.out.println("方法4");
+	}
 }
