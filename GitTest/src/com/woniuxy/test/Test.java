@@ -9,5 +9,6 @@ public class Test {
 	}
 	public void fun1(){
 		System.out.println("fun1");
+		System.out.println("fun11");
 	}
 }
